@@ -1,6 +1,6 @@
 # Simple home automation setup
 
-This is a companion post to the talk _Reviving an Old Computer for Home Automation_, given at All Things Open 2023. My goal is to share with you a simple-to-use tech stack and how each of the following applications can improve your home automation setup, allowing you to:
+This is a companion post to the talk _Reviving an Old Computer for Home Automation_, given at All Things Open 2023. Here are [the slides for the talk](https://www.slideshare.net/RicardoFearing1/reviving-an-old-computer-for-home-automation). My goal is to share with you a simple-to-use tech stack and how each of the following applications can improve your home automation setup, allowing you to:
 
 * Unify your smart devices into a central hub, using [Home Assistant](https://www.home-assistant.io/)
 * Provide added security and speed to our network by blocking ads and unsafe content, using [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
